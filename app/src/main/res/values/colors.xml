@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mainBg">#FFFFFF</color>
+    <color name="bgBtn">#000000</color>
+    <color name="textBtn">#FFFFFF</color>
+    <color name="text">#000000</color>
+    <color name="item">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!--Calendar-->
+    <color name="primaryColor">#169700</color>
+    <color name="primaryVariant">#999393</color>
+    <color name="accentColor">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="background">#000000</color>
+</resources>
